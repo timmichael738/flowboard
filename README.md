@@ -10,6 +10,8 @@ filter instantly, and keep everything offline in your browser. No account needed
 
 ### 👉 [Live demo](https://timmichael738.github.io/flowboard/)
 
+![Flowboard board](docs/screenshot.png)
+
 ## Features
 
 - **Drag and drop** cards within and across columns, and reorder the columns themselves
